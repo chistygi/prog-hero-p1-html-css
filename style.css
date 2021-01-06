@@ -1,3 +1,8 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Xanh Mono', monospace;
+}
 #firstimage{
     width: 25%;
 }
@@ -72,8 +77,9 @@ h2{
 }
 .blueimagediv{
     background-image: url(images/Group_33094_1.png);
-    background-repeat: no-repeat;
-    height:100%;
-    width:100%;
+    
+ 
+    
+
     
 }
